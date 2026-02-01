@@ -1,1 +1,5 @@
+Quick Start (3 steps)
 
+Install dependencies:    bash    pip install streamlit numpy sentence-transformers openai gdown matplotlib pandas
+Set OpenAI API Key:    bash    export OPENAI_API_KEY="your-key-here"
+Run the app:    bash    streamlit run YOUR_FILE_NAME.py
